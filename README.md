@@ -1,6 +1,6 @@
 # SR570_Preamplifier_Control
 SR570_Preamplifier_Control is to control settings in **SR570 preamplifier (StandfordResearchSystems)** remotely. 
-It can be used for use such as operation inside beamline hutch that is difficult to control directly during measurements.
+It can be utilized for operations such as inside beamline hutch that is difficult to control directly during measurements with X-ray.
 
 # Requirements
 Before running SR570_Preamplifier_Control, a few preliminary setups are required.
