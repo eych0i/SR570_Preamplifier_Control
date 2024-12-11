@@ -21,5 +21,8 @@ cd sr570_preamplifier_gui
 python sr570_preamplifier_gui.py
 ```
 
+# Screenshot
+![run_sr570_preamplifier_gui](https://github.com/user-attachments/assets/51b24209-75c5-4e69-b1fe-5e6357208fc2)
+
 
 
